@@ -21,3 +21,6 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a> &nbsp
 </br>
 </br>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?juhyoungRyu=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
