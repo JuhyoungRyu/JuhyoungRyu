@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=Welcome!&fontSize=50&reversal=false&fontAlignY=45&fontAlign=82&fontColo=auto)
-
-<hr>
-<h3 align="center"><b>🦈 Tech Stack 🦈</b></h3>
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffdd33&height=220&section=header&text=Welcome!&fontSize=50&reversal=false&fontAlignY=35&fontAlign=78&fontColor=292929&rotate=15)
+<header>
+  <h2>Hi there 👋<br/>I am Junior Developer, Juhyoung</h2>
+</header>
+<h1 align="center">🌧 Tech Stack 🌧</h1>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -10,11 +11,13 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp</br>
 <img src="https://img.shields.io/badge/React%20JS-61DAFB?style=flat-square&logo=react&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp</br>
-
-<hr>
-
-<h3 align="center"><b>🐳 Using Tool 🐳<b></h3>
 </br>
+<h1 align="center">☂️ I've used ☂️</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a> &nbsp</br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a> &nbsp
+</br>
+</br>
