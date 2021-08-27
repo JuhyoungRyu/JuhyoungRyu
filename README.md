@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffdd33&height=220&section=header&text=Welcome!&fontSize=50&reversal=false&fontAlignY=35&fontAlign=78&fontColor=292929&rotate=15)
+
 <header>
   <h2>Hi there 👋<br/>I am Junior Developer, Juhyoung</h2>
 </header>
