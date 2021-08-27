@@ -1,6 +1,16 @@
 
 <header>
-  <h2>Hi there 👋<br/>I am Junior Developer, Juhyoung</h2>
+  <h2>Hi there 👋<br/>I am Junior Developer, Juhyoung</br>
+  <a href="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" 
+         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  <a href="_blank">
+    <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  </a>
+  </h2>
+  
 </header>
 <h1 align="center">🌧 Tech Stack 🌧</h1>
 </br>
