@@ -27,8 +27,7 @@
 </br>
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyoungRyu)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhyoungRyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyoungRyu)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhyoungRyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thinkoutside2004)](https://solved.ac/thinkoutside2004/)<br>
 
