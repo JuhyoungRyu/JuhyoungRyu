@@ -1,6 +1,6 @@
 
 <header>
-  <h2>Hi there 👋<br/>I am Junior React Developer, Juhyoung  
+  <h2>Hi there 👋<br/>I am Junior FrontEnd Developer, Juhyoung  
   
 </header>
 <h1 align="center">🌧 Tech Stack 🌧</h1>
